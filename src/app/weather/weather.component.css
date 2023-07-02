@@ -1,0 +1,19 @@
+.weather-data {
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(40, 40, 76);
+    
+
+}
+
+.favorite-cities-btn {
+    position: fixed;
+    right: 90px;
+    top: 630px;
+}
+
+table {
+    width: 1000px;
+    background-color: rgb(40, 40, 76);
+}
